@@ -1,4 +1,4 @@
-🏠 Database Normalization Interactive Guide with Bhide & Jethalal
+# 🏠 Database Normalization Interactive Guide with Bhide & Jethalal
 A fun, visual, and Hindi-based interactive guide to Database Normalization, featuring TMKOC’s Bhide and Jethalal. This educational demo explains normalization problems, solutions, and benefits using relatable metaphors, engaging UI, and interactive tables.
 
 🔗 Live Demo: normalization-fullstackgada
